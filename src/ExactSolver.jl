@@ -1,6 +1,4 @@
 module ExactSolver
-
-
 using NLsolve
 
 #Objective Function:
