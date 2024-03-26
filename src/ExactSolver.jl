@@ -1,4 +1,5 @@
 module ExactSolver
+using NICE
 using NLsolve
 
 #Objective Function:
