@@ -1,4 +1,5 @@
 module NICE
+include("ExactSolver.jl")
 
 
 export ReactionSystem, run_kmc, run_nekmc
